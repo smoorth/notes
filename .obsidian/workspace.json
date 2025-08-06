@@ -11,10 +11,14 @@
             "id": "fc45cbbe37a2f30d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "PostgreSQL/Postgres-on-K8s/helm-pgcluster-installation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "helm-pgcluster-installation"
             }
           }
         ]
@@ -90,16 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PostgreSQL/Postgres-on-K8s/helm-pgcluster-installation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for helm-pgcluster-installation"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PostgreSQL/Postgres-on-K8s/helm-pgcluster-installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from helm-pgcluster-installation"
             }
           },
           {
@@ -136,16 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PostgreSQL/Postgres-on-K8s/helm-pgcluster-installation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of helm-pgcluster-installation"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,8 +169,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4a1b609fccaf6381",
+  "active": "fc45cbbe37a2f30d",
   "lastOpenFiles": [
+    "K8s cheatsheets.md",
+    "PostgreSQL/Postgres-on-K8s/helm-pgcluster-installation.md",
+    "InfluxDB/influxdb-config-guide.md",
+    "python/python-functions-guide.md",
+    "python/30days-learning-journey.md",
+    "K8s/minio/minIO-client-mc.md",
     "Untitled.canvas"
   ]
 }

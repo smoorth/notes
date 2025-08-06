@@ -1,0 +1,10 @@
+{
+  "apiToken": "",
+  "username": "smoorth",
+  "targetDirectory": "",
+  "lastFetchDate": "",
+  "syncEnabled": true,
+  "syncPullRequests": true,
+  "lastPRFetchDate": "",
+  "prDirectory": ""
+}
