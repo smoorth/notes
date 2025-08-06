@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/python-functions-guide.md",
+                "file": "K8s/pv&pvc-cleanup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "python-functions-guide"
+              "title": "pv&pvc-cleanup"
             }
           }
         ]
@@ -179,17 +179,18 @@
   },
   "active": "c6bd8a47b336737b",
   "lastOpenFiles": [
+    "Cloud/tools-for-aws-azure.md",
+    "K8s/cka-study-guide.md",
+    "Linux/Common Linux Commands Reference.md",
+    "python/python-functions-guide.md",
     "Performance/tsql-vs-psql-perfromance-cheatsheet.md",
     "K8s/helm/helm-cheatsheet.md",
-    "python/python-functions-guide.md",
     "K8s/pv&pvc-cleanup.md",
-    "Linux/Common Linux Commands Reference.md",
     "Linux",
     "Cloud/aws-azure-abbreviations.md",
     "PostgreSQL/pgvector/vector-guide.md",
     "K8s/minio/minIO-client-mc.md",
     "K8s/minio/minIO.md",
-    "K8s/cka-study-guide.md",
     "K8s/K8s-cheatsheet.md",
     "python/30days-learning-journey.md",
     "PostgreSQL/pgbestpractices.md",
