@@ -309,7 +309,7 @@ This should give you a solid foundation to start working with the *cnpg/cluster*
 
 Ongoing list of commands that might be nice to know when managing the Kubernetes PostgreSQL cluster.
 
-For more, see the Helm and K8s cheatsheets.
+For more, see the [[Helm]] and [[K8s-cheatsheet]].
 
 | Description | Commands|
 |---|---|

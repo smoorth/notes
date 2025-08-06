@@ -9,7 +9,7 @@
 - [Similarity Search Operations](#similarity-search-operations)
 - [Indexing Strategies](#indexing-strategies)
 - [Performance Optimization](#performance-optimization)
-- [Common Use Cases](#common-use-cases)
+- [Common Use Cases](#common-use-cases) 
 - [Advanced Techniques](#advanced-techniques)
 - [Troubleshooting](#troubleshooting)
 
