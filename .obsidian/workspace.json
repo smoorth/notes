@@ -11,10 +11,10 @@
             "id": "09731f6be4931a77",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -173,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca8fd614ed28c401",
+  "active": "09731f6be4931a77",
   "lastOpenFiles": [
     "PostgreSQL/tsql-vs-psql-performance-cheatsheet.md",
     "mongodb/mongodb-handy-cmds.md",
