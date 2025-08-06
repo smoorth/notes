@@ -1,6 +1,37 @@
 # Technical Notes Repository
 
-A comprehensive collection of technical documentation, guides, and best practices covering various technologies and platforms.
+![Repository](https://img.shields.io/badge/Repository-Technical%20Notes-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202025-green)
+![Technologies](https://img.shields.io/badge/Technologies-Multi%20Platform-orange)
+
+A comprehensive collection of technical documentation, guides, and best practices covering various technologies and platforms. This repository serves as a centralized knowledge base for DevOps, database administration, cloud computing, and system administration.
+
+## Table of Contents
+
+- [Technical Notes Repository](#technical-notes-repository)
+  - [Table of Contents](#table-of-contents)
+  - [Contents](#contents)
+    - [Cloud Platforms](#cloud-platforms)
+    - [Kubernetes \& Orchestration](#kubernetes--orchestration)
+    - [Databases](#databases)
+      - [PostgreSQL](#postgresql)
+      - [MongoDB](#mongodb)
+      - [Microsoft SQL Server](#microsoft-sql-server)
+    - [Time Series \& Monitoring](#time-series--monitoring)
+      - [InfluxDB](#influxdb)
+      - [Victoria Metrics](#victoria-metrics)
+    - [Caching \& In-Memory](#caching--in-memory)
+    - [Linux \& System Administration](#linux--system-administration)
+    - [Programming](#programming)
+    - [Development Tools](#development-tools)
+    - [Performance](#performance)
+  - [Quick Start](#quick-start)
+  - [How to Use](#how-to-use)
+  - [Repository Statistics](#repository-statistics)
+  - [Contributing](#contributing)
+    - [Ways to Contribute](#ways-to-contribute)
+    - [Contribution Guidelines](#contribution-guidelines)
+    - [File Naming Convention](#file-naming-convention)
 
 ## Contents
 
@@ -67,6 +98,11 @@ A comprehensive collection of technical documentation, guides, and best practice
 #### Microsoft SQL Server
 
 - **[MSSQL](MSSQL/)**
+  - [Beginner Guide](MSSQL/mssql-beginner-guide.md)
+  - [Advanced Guide](MSSQL/mssql-advanced-guide.md)
+  - [Best Practices](MSSQL/mssql-best-practices.md)
+  - [Handy Commands](MSSQL/mssql-handy-commands.md)
+  - [Performance Tuning](MSSQL/mssql-performance-tuning.md)
 
 ### Time Series & Monitoring
 
@@ -99,6 +135,17 @@ A comprehensive collection of technical documentation, guides, and best practice
 
 - **[Linux](Linux/)**
   - [Common Linux Commands Reference](Linux/Common%20Linux%20Commands%20Reference.md)
+  - [Linux Networking Essentials](Linux/linux-networking-essentials.md)
+  - [Linux Performance Tuning](Linux/linux-performance-tuning.md)
+  - [Linux Process Management](Linux/linux-process-management.md)
+  - [Linux Security Fundamentals](Linux/linux-security-fundamentals.md)
+  - [Linux Storage & Filesystems](Linux/linux-storage-filesystems.md)
+  - [Linux Text Processing Tools](Linux/linux-text-processing-tools.md)
+  - [Shell Scripting Guide](Linux/shell-scripting-guide.md)
+  - [Ubuntu Package Management Guide](Linux/ubuntu-package-management-guide.md)
+  - [Ubuntu Server Setup & Hardening](Linux/ubuntu-server-setup-hardening.md)
+  - [Ubuntu System Administration Guide](Linux/ubuntu-system-administration-guide.md)
+  - [Ubuntu Troubleshooting Guide](Linux/ubuntu-troubleshooting-guide.md)
 
 ### Programming
 
@@ -120,23 +167,59 @@ A comprehensive collection of technical documentation, guides, and best practice
 
 This repository is organized by technology and includes:
 
-- **Configuration guides** for setting up various systems
-- **Best practices** for optimal performance and security
-- **Handy commands** for day-to-day operations
-- **Troubleshooting guides** for common issues
-- **Performance optimization** tips and techniques
+- 📋 **Configuration guides** for setting up various systems
+- ✅ **Best practices** for optimal performance and security
+- 🔧 **Handy commands** for day-to-day operations
+- 🔍 **Troubleshooting guides** for common issues
+- ⚡ **Performance optimization** tips and techniques
+- 🐳 **Containerization** and orchestration guides
+- ☁️ **Cloud platform** specific documentation
 
 ## How to Use
 
-1. Navigate to the technology folder you're interested in
-2. Start with the best practices or configuration guide
-3. Use the handy commands reference for quick operations
-4. Refer to optimization guides for performance tuning
+1. 📁 Navigate to the technology folder you're interested in
+2. 📖 Start with the best practices or configuration guide
+3. ⚡ Use the handy commands reference for quick operations
+4. 🎯 Refer to optimization guides for performance tuning
+5. 🛠️ Check troubleshooting guides when issues arise
+
+## Repository Statistics
+
+- **Total Technologies Covered:** 15+
+- **Database Systems:** PostgreSQL, MongoDB, MSSQL, InfluxDB, Redis, Victoria Metrics
+- **Cloud Platforms:** AWS, Azure
+- **Operating Systems:** Linux (Ubuntu focus)
+- **Orchestration:** Kubernetes, Helm
+- **Programming Languages:** Python, SQL variants
 
 ## Contributing
 
-Feel free to add new notes, update existing documentation, or improve the organization of this repository.
+We welcome contributions to improve and expand this technical knowledge base! Here's how you can help:
+
+### Ways to Contribute
+
+- 📝 **Add new notes** for technologies not yet covered
+- 🔄 **Update existing documentation** with new features or changes
+- 🐛 **Fix errors** or outdated information
+- 📚 **Improve organization** and navigation
+- 💡 **Share best practices** and lessons learned
+- 🔗 **Add cross-references** between related topics
+
+### Contribution Guidelines
+
+1. Keep documentation clear and concise
+2. Include practical examples where possible
+3. Follow the existing naming conventions
+4. Update the README when adding new files
+5. Use proper markdown formatting
+6. Test commands and configurations before documenting
+
+### File Naming Convention
+
+- Use lowercase with hyphens: `technology-guide.md`
+- Be descriptive: `postgres-backup-strategy.md`
+- Include technology prefix when relevant
 
 ---
 
-**Last updated:** August 2025
+**Last updated:** January 2025
