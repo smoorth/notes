@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Common Linux Commands Reference.md",
+                "file": "python/python-functions-guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Common Linux Commands Reference"
+              "title": "python-functions-guide"
             }
           }
         ]
@@ -179,22 +179,22 @@
   },
   "active": "c6bd8a47b336737b",
   "lastOpenFiles": [
+    "Performance/tsql-vs-psql-perfromance-cheatsheet.md",
+    "K8s/helm/helm-cheatsheet.md",
+    "python/python-functions-guide.md",
     "K8s/pv&pvc-cleanup.md",
     "Linux/Common Linux Commands Reference.md",
     "Linux",
     "Cloud/aws-azure-abbreviations.md",
     "PostgreSQL/pgvector/vector-guide.md",
-    "K8s/helm/helm-cheatsheet.md",
     "K8s/minio/minIO-client-mc.md",
     "K8s/minio/minIO.md",
     "K8s/cka-study-guide.md",
     "K8s/K8s-cheatsheet.md",
     "python/30days-learning-journey.md",
-    "python/python-functions-guide.md",
     "PostgreSQL/pgbestpractices.md",
     "PostgreSQL/pg-stat-statements.md",
     "K8s/The-K8s-kitchen.md",
-    "Performance/tsql-vs-psql-perfromance-cheatsheet.md",
     "MSSQL/kill-sql-headblocker.md",
     "PostgreSQL/Postgres-on-K8s/helm-pgcluster-installation.md",
     "K8s cheatsheets.md",
