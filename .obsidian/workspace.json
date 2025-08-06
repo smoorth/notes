@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/pv&pvc-cleanup.md",
+                "file": "Linux/Common Linux Commands Reference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pv&pvc-cleanup"
+              "title": "Common Linux Commands Reference"
             }
           }
         ]
@@ -177,8 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca8fd614ed28c401",
+  "active": "c6bd8a47b336737b",
   "lastOpenFiles": [
+    "K8s/pv&pvc-cleanup.md",
+    "Linux/Common Linux Commands Reference.md",
     "Linux",
     "Cloud/aws-azure-abbreviations.md",
     "PostgreSQL/pgvector/vector-guide.md",
@@ -191,7 +193,6 @@
     "python/python-functions-guide.md",
     "PostgreSQL/pgbestpractices.md",
     "PostgreSQL/pg-stat-statements.md",
-    "K8s/pv&pvc-cleanup.md",
     "K8s/The-K8s-kitchen.md",
     "Performance/tsql-vs-psql-perfromance-cheatsheet.md",
     "MSSQL/kill-sql-headblocker.md",
