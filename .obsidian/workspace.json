@@ -11,10 +11,14 @@
             "id": "c6bd8a47b336737b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "K8s/pv&pvc-cleanup.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "pv&pvc-cleanup"
             }
           }
         ]
@@ -175,6 +179,7 @@
   },
   "active": "ca8fd614ed28c401",
   "lastOpenFiles": [
+    "Linux",
     "Cloud/aws-azure-abbreviations.md",
     "PostgreSQL/pgvector/vector-guide.md",
     "K8s/helm/helm-cheatsheet.md",
