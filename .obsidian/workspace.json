@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e18cf55176ada79f",
+        "id": "df971cfadef67f2c",
         "type": "tabs",
         "children": [
           {
-            "id": "c6bd8a47b336737b",
+            "id": "d2106e9e08e52dcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/pv&pvc-cleanup.md",
+                "file": "vscode/beginner-guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pv&pvc-cleanup"
+              "title": "beginner-guide"
             }
           }
         ]
@@ -177,29 +177,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6bd8a47b336737b",
+  "active": "d2106e9e08e52dcf",
   "lastOpenFiles": [
+    "Redis/redis-guide.md",
+    "K8s/The-K8s-kitchen.md",
+    "Linux/Common Linux Commands Reference.md",
+    "PostgreSQL/Postgres-on-K8s/k8s-vs-db-raci.md",
+    "PostgreSQL/tsql-vs-psql-perfromance-cheatsheet.md",
+    "PostgreSQL/pgvector/vector-guide.md",
+    "PostgreSQL/Postgres-on-K8s/helm-pgcluster-installation.md",
+    "Cloud/tips-tricks-aws-journey.md",
+    "mongodb/mongodb-datamodeling.md",
+    "mongodb/mongodb-data-model-cmdb.md",
+    "mongodb/mongodb-handy-cmds.md",
+    "Cloud/aws-rds-vs-azure-db.md",
+    "Cloud/general-aws-concepts.md",
+    "Cloud/tips-tricks-azure-journey.md",
+    "K8s/pv&pvc-cleanup.md",
     "Cloud/tools-for-aws-azure.md",
     "K8s/cka-study-guide.md",
-    "Linux/Common Linux Commands Reference.md",
     "python/python-functions-guide.md",
     "Performance/tsql-vs-psql-perfromance-cheatsheet.md",
     "K8s/helm/helm-cheatsheet.md",
-    "K8s/pv&pvc-cleanup.md",
     "Linux",
     "Cloud/aws-azure-abbreviations.md",
-    "PostgreSQL/pgvector/vector-guide.md",
     "K8s/minio/minIO-client-mc.md",
     "K8s/minio/minIO.md",
     "K8s/K8s-cheatsheet.md",
     "python/30days-learning-journey.md",
     "PostgreSQL/pgbestpractices.md",
-    "PostgreSQL/pg-stat-statements.md",
-    "K8s/The-K8s-kitchen.md",
-    "MSSQL/kill-sql-headblocker.md",
-    "PostgreSQL/Postgres-on-K8s/helm-pgcluster-installation.md",
-    "K8s cheatsheets.md",
-    "InfluxDB/influxdb-config-guide.md",
     "Untitled.canvas"
   ]
 }

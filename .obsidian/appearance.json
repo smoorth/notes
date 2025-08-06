@@ -1,5 +1,7 @@
 {
   "theme": "obsidian",
   "cssTheme": "Obsidian Nord",
-  "baseFontSize": 20
+  "baseFontSize": 18,
+  "baseFontSizeAction": false,
+  "nativeMenus": false
 }

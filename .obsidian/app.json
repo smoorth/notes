@@ -1,1 +1,7 @@
-{}
+{
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "rightToLeft": false,
+  "tabSize": 4,
+  "autoConvertHtml": true
+}
