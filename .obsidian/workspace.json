@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d9ff66ea3d93a60d",
+        "id": "c7602adb4453984e",
         "type": "tabs",
         "children": [
           {
-            "id": "e249fe6d93160445",
+            "id": "09731f6be4931a77",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -173,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e249fe6d93160445",
+  "active": "ca8fd614ed28c401",
   "lastOpenFiles": [
     "PostgreSQL/tsql-vs-psql-performance-cheatsheet.md",
     "mongodb/mongodb-handy-cmds.md",
